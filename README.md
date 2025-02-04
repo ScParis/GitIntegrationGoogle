@@ -1,6 +1,6 @@
 # GitHub Issues Importer
 
-![GitHub Issues Importer](https://link-para-sua-imagem.gif)
+![GitHub Issues Importer](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnMzYmNsbzA3dnpsZHYxN2NlYmZ4OHpvcHlnMWZ2c3owNWJ3eWxtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aT564S32DojlSN369u/giphy.gif)
 
 Este projeto é um script do Google Apps que permite importar issues de um projeto do GitHub para uma planilha do Google Sheets. Abaixo estão as instruções para configurar e usar o script.
 
@@ -10,7 +10,7 @@ Este projeto é um script do Google Apps que permite importar issues de um proje
 - 📊 Adiciona os dados das issues em uma planilha do Google Sheets.
 - ✅ Valida a configuração do token do GitHub e IDs dos projetos.
 
-![Demonstração de Importação](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnMzYmNsbzA3dnpsZHYxN2NlYmZ4OHpvcHlnMWZ2c3owNWJ3eWxtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aT564S32DojlSN369u/giphy.gif)
+Demonstração de Importação
 
 ## Pré-requisitos
 - Uma conta no GitHub.
