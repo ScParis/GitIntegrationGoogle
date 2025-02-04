@@ -42,6 +42,3 @@ Este projeto é licenciado sob a MIT License. Veja o arquivo LICENSE para mais d
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar problemas.
-
-## Contato
-Para dúvidas ou sugestões, entre em contato com [seu-email@example.com].
